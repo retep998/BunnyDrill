@@ -34,6 +34,7 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
+    <tickerType>Normal</tickerType>
     <CostList>
       <Steel>50</Steel>
       <Component>5</Component>
