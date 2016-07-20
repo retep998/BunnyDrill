@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+
+  <ResearchProjectDef>
+    <defName>MiningDrill</defName>
+    <label>mining drill</label>
+    <description>Learn the art of digging a hole and getting stuff from it</description>
+    <baseCost>500</baseCost>
+    <techLevel>Industrial</techLevel>
+  </ResearchProjectDef>
+
+</ResearchProjectDefs>

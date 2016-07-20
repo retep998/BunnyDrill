@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkGivers>
+
+  <WorkGiverDef>
+    <defName>Mine</defName>
+    <label>mine</label>
+    <giverClass>WorkGiver_Miner</giverClass>
+    <workType>Mining</workType>
+    <priorityInType>100</priorityInType>
+    <verb>mine</verb>
+    <gerund>mining</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>Drill</defName>
+    <label>drill</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Mining</workType>
+    <priorityInType>90</priorityInType>
+    <fixedBillGiverDefs>
+      <li>MiningDrill</li>
+    </fixedBillGiverDefs>
+    <verb>drill</verb>
+    <gerund>drilling at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+</WorkGivers>

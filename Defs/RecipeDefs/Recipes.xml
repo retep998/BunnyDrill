@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+  <RecipeDef>
+    <defName>MineSteel</defName>
+    <label>mine steel</label>
+    <description>Harvest steel from the ground.</description>
+    <jobString>Mining steel.</jobString>
+    <workAmount>480</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Steel>1</Steel>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MineSilver</defName>
+    <label>mine silver</label>
+    <description>Harvest silver from the ground.</description>
+    <jobString>Mining silver.</jobString>
+    <workAmount>240</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Silver>1</Silver>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MineGold</defName>
+    <label>mine gold</label>
+    <description>Harvest gold from the ground.</description>
+    <jobString>Mining gold.</jobString>
+    <workAmount>3600</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Gold>1</Gold>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MinePlasteel</defName>
+    <label>mine plasteel</label>
+    <description>Harvest plasteel from the ground.</description>
+    <jobString>Mining plasteel.</jobString>
+    <workAmount>6480</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Plasteel>1</Plasteel>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MineUranium</defName>
+    <label>mine uranium</label>
+    <description>Harvest uranium from the ground.</description>
+    <jobString>Mining uranium.</jobString>
+    <workAmount>1200</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Uranium>1</Uranium>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MineJade</defName>
+    <label>mine jade</label>
+    <description>Harvest jade from the ground.</description>
+    <jobString>Mining jade.</jobString>
+    <workAmount>1200</workAmount>
+    <workSpeedStat>MiningSpeed</workSpeedStat>
+    <workSkill>Mining</workSkill>
+    <workSkillLearnFactor>0.5</workSkillLearnFactor>
+    <effectWorking>CutStone</effectWorking>
+    <soundWorking>Recipe_MakeStoneBlocks</soundWorking>
+    <products>
+      <Jade>1</Jade>
+    </products>
+  </RecipeDef>
+</RecipeDefs>
